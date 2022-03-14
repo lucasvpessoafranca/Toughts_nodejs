@@ -13,6 +13,9 @@ const conn = require('./db/conn')
 const Tought = require('./models/Tought')
 const User = require('./models/User')
 
+//Import Routes
+const toughtsRoutes = require('./routes/toughtsRoutes')
+const ToughtController = require('./controller/ToughtController')
 
 // Template Engine
 
@@ -53,13 +56,17 @@ app.use(flash())
 
 //set sessions to res
 
-app.use((req,res)=> {
+app.use((req,res,next)=> {
   if(req.session.userid){
     res.locals.session = req.session
   }
 
   next()
 })
+
+//routes
+app.use('/toughts',toughtsRoutes)
+app.use('/',ToughtController.showToughts)
 
 //public path
 app.use(express.static('public'))
