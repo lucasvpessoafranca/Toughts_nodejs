@@ -1,0 +1,1 @@
+npm install bcryptjs  connect-flash cookie-parser cookie-session express express-handlebars nodemon express-flash express-session mysql2 sequelize session-file-store
