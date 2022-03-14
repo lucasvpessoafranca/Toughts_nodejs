@@ -15,6 +15,9 @@ const User = require('./models/User')
 
 //Import Routes
 const toughtsRoutes = require('./routes/toughtsRoutes')
+const authRoutes = require('./routes/authsRoutes')
+
+//Import Controller
 const ToughtController = require('./controller/ToughtController')
 
 // Template Engine
@@ -27,6 +30,7 @@ app.use(express.urlencoded({
 }))
 
 app.use(express.json())
+  app.use(express.static("public"))
 
 
 //session middleware
@@ -66,9 +70,9 @@ app.use((req,res,next)=> {
 
 //routes
 app.use('/toughts',toughtsRoutes)
-app.use('/',ToughtController.showToughts)
+app.use('/',authRoutes)
+app.get('/',ToughtController.showToughts)
 
 //public path
-app.use(express.static('public'))
 
 conn.sync().then(()=> { app.listen(3000)}).catch((err)=> console.log(err))
