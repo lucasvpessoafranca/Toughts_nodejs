@@ -1,0 +1,77 @@
+[33mcommit 01c487e78e5a0b011c9c9842b509779129cbf5f5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Tue Mar 15 00:13:51 2022 -0300
+
+    enviando pensamento
+
+[33mcommit a830bc13a84f26addc13e792c49bcba2102ce704[m
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Mon Mar 14 20:26:21 2022 -0300
+
+    finalizando autenticacao
+
+[33mcommit 20eb9bbf2461b87ec3f647eb957c4dd7b96060e5[m
+Merge: b4d769b ed9b115
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Mon Mar 14 11:32:55 2022 -0300
+
+    Merge branch 'main' of https://github.com/lucasvpessoafranca/Toughts_nodejs
+
+[33mcommit b4d769bbc0e54bbb479b668b2f3defe4e17d1ad0[m
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Mon Mar 14 11:32:32 2022 -0300
+
+    adicionando cadastro de usuario
+
+[33mcommit ed9b115908d573f0d39337e5dcdbf2b1796767c9[m
+Merge: deec89d bbd212d
+Author: Lucas França <91041396+lucasvpessoafranca@users.noreply.github.com>
+Date:   Mon Mar 14 00:22:40 2022 -0300
+
+    Merge pull request #1 from lucasvpessoafranca/staging
+    
+    iniciou , funcionou
+
+[33mcommit bbd212d74b0c3e39bc1283dfa02db936d3629deb[m[33m ([m[1;31morigin/staging[m[33m, [m[1;32mstaging[m[33m)[m
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Mon Mar 14 00:19:58 2022 -0300
+
+    iniciou , funcionou
+
+[33mcommit deec89dd2254181abc2e363caeffe08fd278e872[m
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Mon Mar 14 00:05:04 2022 -0300
+
+    correção
+
+[33mcommit c03eb6e5d7d97c995df16d18c75d743e4f3da54d[m
+Merge: 831ef1b 73efcb6
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Mon Mar 14 00:00:58 2022 -0300
+
+    Merge branch 'main' of https://github.com/lucasvpessoafranca/Toughts_nodejs
+
+[33mcommit 831ef1bed5a2992ccb13c7fab626bc3103f7e9f0[m
+Merge: 74feea8 c33d5ee
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Mon Mar 14 00:00:05 2022 -0300
+
+    Merge branch 'master' of https://github.com/lucasvpessoafranca/Toughts_nodejs
+
+[33mcommit 74feea8fcbd4c6baeb7c65ee8fc0f79efe84aa7d[m
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Sun Mar 13 23:57:00 2022 -0300
+
+    iniciando o projeto
+
+[33mcommit c33d5ee1cd23be50f0490c0a80be1ba4213adca0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Lucas França <lucasvpessoafranca@gmail.com>
+Date:   Sun Mar 13 22:10:01 2022 -0300
+
+    primeiro commit
+
+[33mcommit 73efcb68f305dbad268f721cdd58179ab425667c[m
+Author: Lucas França <91041396+lucasvpessoafranca@users.noreply.github.com>
+Date:   Sun Mar 13 22:07:50 2022 -0300
+
+    Initial commit
