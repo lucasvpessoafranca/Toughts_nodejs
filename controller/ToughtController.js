@@ -70,4 +70,15 @@ module.exports = class ToughtController {
 
     res.render('toughts/edit', {tought})
   }
+  static async updateToughtSave(req,res) {
+    const id = req.body.id
+    const tought = {
+      title:req.body.title
+    }
+    await Tought.update(tought, {where: {id:id}})
+    req.flash('message', 'Pensamento atualizado com sucesso!')
+    req.session.save(()=> {
+      res.redirect('/toughts/dashboard')
+    })
+  } 
 }
