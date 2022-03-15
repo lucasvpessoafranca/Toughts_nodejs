@@ -160,6 +160,10 @@ form input[type='submit'],
   font-size: 1.5rem;
   transition: .5s;
 }
+#editvoltar {
+  color: #FFF;
+  padding: 20px;
+}
 
 form input[type='submit']:hover,
 .btn:hover {
@@ -237,4 +241,11 @@ form input[type='submit']:hover,
 }
 .dashboard .actions .btn {
   color: var(--color-white);
+}
+
+
+.emptyToughts {
+  font-weight: bold;
+  font-size: 1.125rem;
+  text-decoration: underline;
 }
