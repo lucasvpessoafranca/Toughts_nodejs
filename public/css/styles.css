@@ -192,3 +192,49 @@ form input[type='submit']:hover,
 }
 
 
+.dashboard {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 10px 5px;
+}
+
+.dashboard h3 {
+  font-size: 1.75rem;
+  margin: 2rem 1rem;
+}
+
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px ;
+}
+
+.title-container h2 {
+  border-left: 4px solid var(--color-light);
+  padding:10px;
+}
+
+.dashboard ul {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.dashboard li {
+  margin-top: 1.5rem;
+  margin-left: 1rem;
+  border-bottom: 2px solid var(--color-light);
+  flex: 1 1 500px;
+  align-items: center;
+  display: flex;
+  font-size: 1.35rem;
+  color: var(--color-medium);
+  justify-content: space-between;
+}
+.dashboard .actions {
+  display: flex;
+  gap: 10px;
+}
+.dashboard .actions .btn {
+  color: var(--color-white);
+}
