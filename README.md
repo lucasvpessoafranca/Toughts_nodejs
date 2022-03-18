@@ -2,6 +2,7 @@
 Study | Rede social de pensamentos desenvolvida em NodeJS| Express | MYSQL  para fins de estudos back-end.
 
 
+#Tela inicial 
 ![Tela inicial ](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/1.jpeg)
 
 ![autenticacao](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/2.jpeg)
