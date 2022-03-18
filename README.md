@@ -2,22 +2,35 @@
 Study | Rede social de pensamentos desenvolvida em NodeJS| Express | MYSQL  para fins de estudos back-end.
 
 
-#Tela inicial 
+#Tela inicial
+
 ![Tela inicial ](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/1.jpeg)
+
+#Autenticação
 
 ![autenticacao](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/2.jpeg)
 
+#Cadastro 
+
 ![cadastro](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/3.jpeg)
 
+#TelaInicial
 
 ![telaInicia](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/4.jpeg)
 
+#Dashboard
+
 ![Dashboard](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/5.jpeg)
 
+#Cadastro de Pensamento
 
 ![Cadastrando um pensamento](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/6.jpeg)
 
+#Visualizar meus pensamentos
+
 ![meus pensamentos cadastrados](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/7.jpeg)
+
+#Todos os pensamentos
 
 ![Todos os pensamentos](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/8.jpeg)
 
