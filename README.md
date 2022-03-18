@@ -2,12 +2,28 @@
 Study | Rede social de pensamentos desenvolvida em NodeJS| Express | MYSQL  para fins de estudos back-end.
 
 
-![Tela inicial ](https://github.com/lucasvpessoafranca/crud-node/blob/main/task1.png)
+![Tela inicial ](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/1.jpeg)
 
-![resultado](https://github.com/lucasvpessoafranca/crud-node/blob/main/task2.png)
+![autenticacao](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/2.jpeg)
 
-![resultado](https://github.com/lucasvpessoafranca/crud-node/blob/main/task3.png)
-![resultado](https://github.com/lucasvpessoafranca/crud-node/blob/main/task4.png)
+![cadastro](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/3.jpeg)
+
+
+![telaInicia](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/4.jpeg)
+
+![Dashboard](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/5.jpeg)
+
+
+![Cadastrando um pensamento](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/6.jpeg)
+
+![meus pensamentos cadastrados](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/7.jpeg)
+
+![Todos os pensamentos](https://github.com/lucasvpessoafranca/Toughts_nodejs/blob/main/readmeImg/8.jpeg)
+
+
+
+
+ 
  
  
  
@@ -24,8 +40,10 @@ Aqui estão as tecnologias que eu usei no meu projeto
 
 ## Como funciona:
  
-O usuário pode cadastrar uma conta no sistema, e fazer o login , para publicar os seus pensamentos.
+O usuário pode cadastrar uma conta no sistema,  fazer o login , para publicar os seus pensamentos.
 também é possível verificar todos os pensamentos cadastrados.
+o usuário pode fazer o logout a qualquer momento , a partir do botão 'Sair'.
+
 
  
  
